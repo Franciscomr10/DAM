@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+    width="12cm" height="8cm">
+<title>The pink triangle!!!</title>
+<text x="10" y="15"> This is SVG!</text>
+<polygon style="fill: pink"
+points="0,311 180,0 360,311" />
+</svg>

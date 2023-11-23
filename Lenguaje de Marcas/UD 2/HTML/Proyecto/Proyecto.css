@@ -1,0 +1,27 @@
+header {
+    background-color: #905010;
+    color: white;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+.logo {
+    height:100px;
+    width:100px;
+}
+
+.menu {
+    background-color: #333;
+    color: white;
+    padding: 0.5rem 0;
+    text-align: center;
+}
+.menu a {
+    color: white; /* Color para enlaces no visitados */
+    text-decoration: none; /* Elimina el subrayado predeterminado */
+}
+
+.menu a:hover,
+.menu a:active {
+    color: white; /* Color al pasar el ratón o cuando se hace clic */
+}
